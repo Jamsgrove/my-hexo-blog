@@ -103,3 +103,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# https://qiuyiwu.github.io/2019/01/25/Hexo-Comment/
+disqus:
+  enable: true
+  shortname: jamsgroveblog
+  count: true
