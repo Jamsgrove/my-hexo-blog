@@ -42,3 +42,5 @@ The following devices are common in todays netorks and are easy to emulate in a 
 ### Final thought
 There are so many tools available when starting to automate that it can quickly become overwhelming, how do we know we are using the right tool the right way??
 Do not worry, lets start small and simple and then keep building from that.
+
+<div id="disqus_thread"></div>
