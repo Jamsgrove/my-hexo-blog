@@ -32,6 +32,8 @@ The following devices are common in todays netorks and are easy to emulate in a 
 * Fortinet
     * Fortigate
 
+{% asset_img 32766_1.jpg %}
+
 ### What this tutorial assumes
 * You have used ansible, even if just to output a show command on a network device
 * You have a lab or somewhere you can safely test your playbooks, never test on the live production network!
